@@ -285,6 +285,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .banner img {
   animation: updown 3s linear infinite;
 }
+/*****   THIS IS WHAT MAKES THE IMAGE ON THE LEFT MOVE UP AND DOWN *****/
 @keyframes updown {
     0% {
         transform: translateY(-20px);
